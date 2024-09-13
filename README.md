@@ -1,3 +1,6 @@
+Mina Shehata
+Computer Science Username: Minash23
+
 # GitFall2024
 
 
