@@ -1,1 +1,37 @@
 The last book I read was developing your personality by Metropolitan Youssef. This is a religious book in the coptic orthodox church and helps you in your spiritual life. This book spoke mainly about grace and truth and the important of their unity within Christianity. If you have grace without truth, you get confusion and lost followers of Christ. If you separate true with our grace, you get rebellious and angered follows who ultimately do not feel loved by Christ. 
+
+(base) minashehata@Minas-MacBook-Air GitFall2024-Mina % git status
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   book.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	.gitignoreOn branch main
+
+
+Your branch is ahead of 'origin/main' by 2 commits.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   answers.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   book.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	.gitignore
+

@@ -1,0 +1,29 @@
+a) 14
+
+b) N/A, no data is popping up when I run git log -1 --pretty="format:%ci" .gitignore             
+
+C) git rev-list -1 --before="<date>"
+
+d) 13 
+   1 BookShop.java
+   5 Main.java
+   5 README.md
+   1 book.txt
+   2 inspiration.txt
+
+E) Remove.txt does not exist
+
+F) git log displays the commit history, showing details like commit hashes, authors, and messages. git status shows the current state of the working directory and staging area, including modified, staged, and untracked files.
+
+G) It groups each commit by author and displays the first line of each commit message.
+
+H) git log -- Main.java
+
+I) git log -p --follow --main.java
+
+J) git log --grep="account"
+
+K) git log --author="minash23"
+
+L) git log --author="Lauren" --since="2014-01-05" --until="2024-01-14"
+
