@@ -1,0 +1,21 @@
+name:1
+Strike:3
+Crush:4
+Genetic Algorithm:2
+Bash:2
+Inflame:3
+Double Tap:1
+Heavy Blade:4
+Cleave:2
+Iron Wave:3
+Shockwave:2
+Bludgeon:3
+Disarm:1
+Sword Boomerang:2
+Rage:0
+Thunderclap:1
+Limit Break:2
+Whirlwind:3
+Uppercut:4
+Sever Soul:3
+Pommel Strike:70
